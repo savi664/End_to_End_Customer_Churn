@@ -118,3 +118,7 @@ docs/_build/
 celerybeat-schedule
 *.manifest
 *.spec
+__pycache__/
+*.pyc
+.env
+*.log
