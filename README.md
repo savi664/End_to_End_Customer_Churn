@@ -53,3 +53,6 @@ URL: http://localhost:8000/docs
 | `python -m src.drift_monitor` | Run PSI drift analysis |
 | `python -m src.shap_analysis` | Generate SHAP plots |
 | `python -m src.ab_testing` | Power & revenue simulation |
+# End-to-End Customer Churn Prediction
+
+ML pipeline for predicting customer churn. Covers data ingestion, preprocessing, model training, and a small web app.
