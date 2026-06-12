@@ -248,3 +248,4 @@ def make_feature_matrix(
             features[column] = 0
 
     return features[feature_columns].apply(pd.to_numeric, errors="coerce").fillna(0)
+"""Preprocessing and feature engineering for the churn dataset."""
