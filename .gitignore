@@ -122,3 +122,11 @@ __pycache__/
 *.pyc
 .env
 *.log
+
+venv/
+.venv/
+env/
+mlruns/
+artifacts/
+*.pkl
+*.joblib
