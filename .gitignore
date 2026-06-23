@@ -130,3 +130,8 @@ mlruns/
 artifacts/
 *.pkl
 *.joblib
+
+.DS_Store
+*.log
+data/raw/*.csv
+notebooks/.ipynb_checkpoints/
