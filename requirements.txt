@@ -1,0 +1,16 @@
+fastapi
+ipykernel
+joblib
+jupyterlab
+matplotlib
+numpy
+pandas
+plotly
+pydantic
+python-multipart
+scikit-learn
+scipy
+seaborn
+shap
+streamlit
+uvicorn
